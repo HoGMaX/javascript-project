@@ -1,2 +1,2 @@
 # javascript-project
-## My smol js project
+## My small js project
